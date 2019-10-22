@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasIntent</string>
+    <string name="hasil_input_nilai_mahasiswa">HASIL INPUT NILAI MAHASISWA</string>
+    <string name="nim">NIM :</string>
+    <string name="nama">NAMA :</string>
+    <string name="nilai">NILAI :</string>
+</resources>
